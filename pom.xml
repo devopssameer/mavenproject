@@ -26,18 +26,7 @@
       <id>site-server</id>
       <name>Test Project Site</name>
       <url>file:///tmp/maven-project-site</url>
-    </site>
-    <repository>
-      <id>nexus</id>
-      <name>sameer-repo</name>
-      <url>http://52.149.151.167:8081/repository/sameer-repo/</url>
-    </repository>
-    <snapshot-repository>
-      <id>nexus</id>
-      <name>sameer-repo-snapshot</name>
-      <url>http://52.149.151.167:8081/repository/sameer-repo-snapshot/</url>
-   </snapshot-repository>
-  
+    </site> 
   </distributionManagement>
 
   <build>
